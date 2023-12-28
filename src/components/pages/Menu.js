@@ -56,7 +56,7 @@ export function Menu() {
                 alt=""
                 height={1000}
                 width={1000}
-                className="w-[156px] h-[167px] object-cover rounded-[8px] shadow-[1px_1px_8px_1px_grey] lg:w-[350px] lg:h-[350px]"
+                className="w-[156px] h-[167px] object-cover rounded-[8px] shadow-[1px_1px_8px_1px_grey] lg:w-[350px] lg:h-[350px] lg:rounded-[16px]"
               />
               <div className="flex flex-row gap-x-[8px] items-center pt-[8px] lg:pt-[24px] lg:gap-x-[16px]">
                 <p className="leadin-[21px] font-bold text-[14px] lg:text-[32px] lg:leading-[39px]">

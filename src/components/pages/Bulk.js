@@ -30,7 +30,7 @@ export function Bulk() {
           alt=""
           width={1500}
           height={1500}
-          className="max-w-[328px] max-h-[172px] object-cover rounded-[8px] lg:max-h-[400px] lg:max-w-[540px] block mx-auto"
+          className="max-w-[328px] max-h-[172px] object-cover rounded-[8px] lg:max-h-[400px] lg:max-w-[540px] block mx-auto lg:rounded-[16px]"
           data-aos="fade-left"
           data-aos-duration="1000"
         />
@@ -72,7 +72,7 @@ export function Bulk() {
               );
             })}
           </div>
-          <button className=" text-[14px] leading-[21px] w-full bg-primary text-white rounded-[8px] h-[48px] font-bold mt-[24px] mb-[43px] lg:max-w-[255px] lg:h-[80px] lg:mt-[48px] lg:mb-[129px] lg:text-[24px] lg:leading-[36px]">
+          <button className=" text-[14px] leading-[21px] w-full bg-primary text-white rounded-[8px] h-[48px] font-bold mt-[24px] mb-[43px] lg:max-w-[255px] lg:h-[80px] lg:mt-[48px] lg:mb-[129px] lg:text-[24px] lg:leading-[36px] lg:rounded-[10px]">
             Pesan sekarang
           </button>
         </div>
