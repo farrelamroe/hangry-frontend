@@ -65,8 +65,8 @@ export function Menu() {
                 <Image
                   src="/images/arrow-right.png"
                   alt=""
-                  height={1000}
-                  width={1000}
+                  height={15000}
+                  width={15000}
                   className="w-[16px] h-[16px] lg:w-[24px] lg:h-[24px]"
                 />
               </div>

@@ -45,8 +45,8 @@ useEffect(() => {
         <Image
           src="/images/handphone.png"
           alt=""
-          height={1500}
-          width={1500}
+          height={15000}
+          width={15000}
           className="lg:hidden absolute bottom-0 -right-[20px] h-[315px] w-[208px] lg:h-[710px]"
           data-aos="fade-up"
           data-aos-duration="1000"
@@ -54,8 +54,8 @@ useEffect(() => {
         <Image
           src="/images/handphone-lg.png"
           alt=""
-          height={1500}
-          width={1500}
+          height={15000}
+          width={15000}
           className="hidden lg:block absolute -bottom-[300px] right-0 h-[415px] w-[198px] lg:h-[710px] lg:w-[500px] z-0"
           data-aos="fade-up"
           data-aos-duration="1000"
